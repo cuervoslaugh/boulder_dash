@@ -1,0 +1,2 @@
+The following set of files were written to work with a levels file created by Ilkka Kokkarinen for CCPS209, Computer Science II at Ryerson University.
+They represent the work done for a final project to implement a functional recreation of the classic video game "Boulder Dash".
